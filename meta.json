@@ -1,0 +1,24 @@
+{
+  "repo": "burp-suite-professional",
+  "product": "Burp Suite Professional",
+  "kind": "security",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "web-security",
+  "topics": [
+    "burp-suite-professional",
+    "burp-desktop",
+    "burp-windows",
+    "web-security",
+    "proxy-tools",
+    "http-inspection",
+    "security-testing",
+    "desktop-pentest",
+    "windows-security-tools",
+    "api-testing",
+    "vulnerability-scan"
+  ],
+  "site": "zentool.art"
+}
